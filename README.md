@@ -10,4 +10,4 @@ Source code is from this page: https://dolphin-emu.org/docs/guides/wii-network-g
 
 ## Compile error on Linux
 
-Compile with command: `g++ extract_certs.cpp -o extract_certs -std=gnu++0x` to prevent error `'GLIBCXX_3.4.26' not found`
+Compile with command `g++ extract_certs.cpp -o extract_certs -std=gnu++0x` to prevent error `'GLIBCXX_3.4.26' not found`
