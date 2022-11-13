@@ -1,4 +1,4 @@
-# Wii_extract_certs
+# wii_extract_certs
 
 Extract Wii certificates from `00000011.app` Wii NAND file
 
